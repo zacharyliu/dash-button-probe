@@ -1,0 +1,15 @@
+{
+  "name": "dash-button-probe",
+  "version": "0.0.1",
+  "description": "Detect when an Amazon Dash Button is pressed using probe request frames.",
+  "main": "index.js",
+  "author": "Zachary Liu <zachary@zacharyliu.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zacharyliu/dash-button-probe.git"
+  },
+  "dependencies": {
+    "pcap": "git+https://github.com/mranney/node_pcap.git"
+  }
+}
