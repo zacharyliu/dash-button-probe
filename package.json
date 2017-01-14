@@ -1,6 +1,6 @@
 {
   "name": "dash-button-probe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Detect when an Amazon Dash Button is pressed using probe request frames.",
   "main": "index.js",
   "author": "Zachary Liu <zachary@zacharyliu.com>",

@@ -20,6 +20,12 @@ sudo ifconfig INTERFACE up
 
 substituting INTERFACE for the name of your Wi-Fi hardware interface (e.g. `wlan0`).
 
+Install this package:
+
+```
+npm install dash-button-probe
+```
+
 Then, use the following snippet to detect button presses:
 
 ```js
